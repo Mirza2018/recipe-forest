@@ -1,0 +1,123 @@
+[
+  {
+    "_id": 1,
+    "name": "Roach Workman",
+    "gender": "male",
+    "picture": "https://i.pinimg.com/564x/f1/8f/21/f18f21b2a441281736416ef25f9295be.jpg",
+    "age": 8,
+    "recipes": 11,
+    "likes": 483,
+    "email": "roachworkman@ecratic.com",
+    "address": "Seymour, Rhode Island"
+  },
+  {
+    "_id": 2,
+    "name": "Claire Norman",
+    "gender": "female",
+    "picture": "https://imageio.forbes.com/images-forbes/media/2010/02/03/0203_julia-child_485x340.jpg?format=jpg&width=1440",
+    "age": 9,
+    "recipes": 6,
+    "likes": 978,
+    "email": "clairenorman@ecratic.com",
+    "address": "Nord, Florida"
+  },
+  {
+    "_id": 3,
+    "name": "Ferrell Pittman",
+    "gender": "male",
+    "picture": "https://www.chefspencil.com/wp-content/uploads/Guy-Fieri-960x960.jpg.webp",
+    "age": 16,
+    "recipes": 10,
+    "likes": 800,
+    "email": "ferrellpittman@ecratic.com",
+    "address": "Romeville, Pennsylvania"
+  },
+  {
+    "_id": 4,
+    "name": "Roseann Buchanan",
+    "gender": "female",
+    "picture": "https://imageio.forbes.com/images-forbes/media/2010/02/03/0203_cat-cora_485x340.jpg?format=jpg&width=1440",
+    "age": 15,
+    "recipes": 6,
+    "likes": 759,
+    "email": "roseannbuchanan@ecratic.com",
+    "address": "Inkerman, Maryland"
+  },
+  {
+    "_id":5,
+    "name": "Lottie Mcgowan",
+    "gender": "female",
+    "picture": "https://imageio.forbes.com/images-forbes/media/2010/02/03/0203_cristeta-comerford_485x340.jpg?format=jpg&width=1440",
+    "age": 15,
+    "recipes": 4,
+    "likes": 860,
+    "email": "lottiemcgowan@ecratic.com",
+    "address": "Biddle, North Dakota"
+  },
+  {
+    "_id": 6,
+    "name": "Trujillo Carroll",
+    "gender": "male",
+    "picture": "https://www.chefspencil.com/wp-content/uploads/Michael-Caines.jpg.webp",
+    "age": 17,
+    "recipes": 11,
+    "likes": 956,
+    "email": "trujillocarroll@ecratic.com",
+    "address": "Thatcher, Marshall Islands"
+  },
+  {
+    "_id": 7,
+    "name": "Pugh Chaney",
+    "gender": "male",
+    "picture": "https://www.chefspencil.com/wp-content/uploads/Jamie-Oliver-960x958.jpg.webp",
+    "age": 16,
+    "recipes": 6,
+    "likes": 902,
+    "email": "pughchaney@ecratic.com",
+    "address": "Goodville, Idaho"
+  },
+  {
+    "_id": 8,
+    "name": "Hannah Terry",
+    "gender": "female",
+    "picture": "https://imageio.forbes.com/images-forbes/media/2010/02/03/0203_betty-crocker_485x340.jpg?format=jpg&width=1440",
+    "age": 14,
+    "recipes": 4,
+    "likes": 586,
+    "email": "hannahterry@ecratic.com",
+    "address": "Lupton, South Dakota"
+  },
+  {
+    "_id": 9,
+    "name": "Le Estes",
+    "gender": "male",
+    "picture": "https://www.chefspencil.com/wp-content/uploads/Rick-Stein-960x960.jpg.webp",
+    "age": 17,
+    "recipes": 12,
+    "likes": 508,
+    "email": "leestes@ecratic.com",
+    "address": "Sehili, District Of Columbia"
+  },
+  {
+    "_id": 10,
+    "name": "Ochoa Bernard",
+    "gender": "male",
+    "picture": "https://www.chefspencil.com/wp-content/uploads/Wolfgang-Puck-960x960.jpg.webp",
+    "age": 18,
+    "recipes": 12,
+    "likes": 643,
+    "email": "ochoabernard@ecratic.com",
+    "address": "Vale, Ohio"
+  },
+  {
+    "_id": 11,
+    "name": "Munoz Mayer",
+    "gender": "male",
+    "picture": "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcLzEwLWNlbGVicml0eS1jaGVmcy0zLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MjAwfSwidG9Gb3JtYXQiOiJhdmlmIn19",
+    "age": 15,
+    "recipes": 8,
+    "likes": 585,
+    "email": "munozmayer@ecratic.com",
+    "address": "Hickory, Mississippi"
+  }
+]
