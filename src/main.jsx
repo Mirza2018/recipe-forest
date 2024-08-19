@@ -38,12 +38,12 @@ const router = createBrowserRouter([
       },
       {
         path: '/recipies/:id',
-        element: <PrivetRoute><Recipies></Recipies></PrivetRoute>,
+        element: <Recipies></Recipies>,
         loader: ({ params }) => fetch(`https://server-recipie-forest-mirza2018.vercel.app/recipies/${params.id}`),
       },
       {
         path: '/recipies',
-        element: <PrivetRoute><Carts></Carts></PrivetRoute>,
+        element: <Carts></Carts>,
         loader: () => fetch('https://server-recipie-forest-mirza2018.vercel.app/recipies')
       },
       {
